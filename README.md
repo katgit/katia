@@ -3,5 +3,5 @@
 My cool Spark project
 
 
-My project is Java
+My project is Pathon
 We will develop a website
