@@ -1,5 +1,5 @@
 # My Spark Project
-## Katia Bulekova
+## Katerina Bulekova
 My cool Spark project
 
 
